@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Marvel</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="sign_in">Sign in</string>
+    <string name="exit">Exit</string>
+    <string name="really">Are you sure?</string>
+    <string name="cancel">Cancel</string>
+    <string name="application_made">Application made by Manuel Plašć</string>
+    <string name="date">ID:</string>
+    <string name="title">Name:</string>
+    <string name="explanation">Description</string>
+    <string name="delete">Delete</string>
+    <string name="sure">Are you sure?</string>
+    <string name="about">About</string>
+    <string name="items">Characters</string>
+    <string name="arent_connected">You aren\'t connected to internet</string>
+    <string name="sing_out">Sign out</string>
+</resources>

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "178176855432",
+    "project_id": "marvelapp-b2f0e",
+    "storage_bucket": "marvelapp-b2f0e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:178176855432:android:fbbc59453d1c5a74e17e3d",
+        "android_client_info": {
+          "package_name": "hr.algebra.marvel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "178176855432-n2dtu13qktgc57uipjiu1r5r4bem8423.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "hr.algebra.marvel",
+            "certificate_hash": "f5849ed3f942c5a44c6bb680f980fcf8d31ef7f0"
+          }
+        },
+        {
+          "client_id": "178176855432-5o22g5angvpbqq5i6agtapc7a0nb7qca.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMIUKCxCms1FVjfMQg4o4lMeWDT-Dq-7s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "178176855432-5o22g5angvpbqq5i6agtapc7a0nb7qca.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
